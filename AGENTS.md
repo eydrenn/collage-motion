@@ -13,7 +13,8 @@ skills/collage-motion/          the skill: everything a user installs
   assets/src/                   the library art, one SVG per piece
   references/                   the documentation agents read
   examples/                     what `collage init` copies into a project
-docs/                           images for the README
+docs/                           images and videos for the README
+examples/meeting/               the narrated example shown in the README: a project folder with its voice files
 .claude-plugin/                 Claude Code plugin manifest
 ```
 
@@ -34,11 +35,11 @@ Then run the checks: `npm test --prefix skills/collage-motion`. It renders the e
 
 ## Rules
 
-- **English only**: names, comments, messages, documentation.
+- **English only**: names, comments, messages, documentation. The one exception is the translated READMEs, `README.pt-BR.md` and `README.es.md`: they mirror `README.md` section by section, so a change to one goes into all three in the same change.
 - **Few comments in code.** One line at the top of a file saying what it is, and a comment only where the reason is not obvious from the code. How to use something is explained in `SKILL.md` and `references/`, not in the source.
 - **The names people type are an interface.** SVG attributes (`data-cut`, `data-shadow`, ...), palette names, sheet fields, faces, poses, layer and action fields, entrances and commands are used in other people's files. Add, do not rename.
 - **Documentation follows the code.** A new field or value goes in the matching file in `references/` in the same change, with an example that was actually run.
 - **Library art**: the first comment of the SVG is its one-line description. After adding or changing art, run `collage library --write-catalog` to rebuild `references/library.md`. Never edit that file by hand.
-- **No generated files in the repository** except `references/library.md`, the sounds in `kit/sounds/` (rebuilt by `collage sounds --build-kit` from `scripts/lib/foley.mjs`) and the images in `docs/`.
+- **No generated files in the repository** except `references/library.md`, the sounds in `kit/sounds/` (rebuilt by `collage sounds --build-kit` from `scripts/lib/foley.mjs`) the images and videos in `docs/`, and the voice files in `examples/meeting/audio/` (made once with ElevenLabs; regenerating them costs credits).
 - **One dependency.** `playwright-core` drives the browser and ffmpeg is called from the system. Do not add packages without a strong reason.
 - Changing how paper is drawn changes every picture. Render the library sheet (`collage library --sheet`) before and after.

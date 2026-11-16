@@ -3,3 +3,4 @@ out/
 .collage-cache/
 dist/
 .DS_Store
+tmp/
