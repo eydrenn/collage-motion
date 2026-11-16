@@ -110,7 +110,7 @@ Every video ends with a line that reports what it measured, for example `sound: 
 
 Record or generate the voice **before** timing the scene, then write the times as words of the narration (`at: "word:deploy"`) instead of seconds: `references/voice.md` has the whole route, including how to get the time of each word. Then check with the animatic: it renders in about a second with the voice under it, which makes it the right place to move things by a few tenths until they land on the word.
 
-Any voice works, since the tool only needs the audio file: your own recording, or a text-to-speech service such as ElevenLabs or HeyGen. Those services are paid and have their own rules about what you may publish.
+Any voice works, since the tool only needs the audio file: your own recording, or a text-to-speech service such as ElevenLabs. Those services are paid and have their own rules about what you may publish.
 
 ## Checking
 

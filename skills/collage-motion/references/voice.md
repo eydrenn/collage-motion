@@ -23,13 +23,11 @@ The tool only needs an audio file (mp3, wav, m4a ...). It does not make one.
 | Record yourself | free | make it with `collage words` |
 | A local text-to-speech (macOS `say`, Kokoro, Piper) | free | make it with `collage words` |
 | ElevenLabs | paid | comes with the audio: ask for timestamps |
-| HeyGen, or another service | paid | from the service if it gives word times, otherwise `collage words` |
+| Another text-to-speech service | paid | from the service if it gives word times, otherwise `collage words` |
 
 A paid service is your own account, your own cost and your own license to publish. Nothing in this skill calls one.
 
 **ElevenLabs.** Its text-to-speech has a variant that returns the audio together with the time of every character (`POST /v1/text-to-speech/{voice_id}/with-timestamps`). Save the JSON it answers with: the `alignment` object in it is read directly as a words file, with no conversion.
-
-**HyperFrames.** If you also use HyperFrames, its `tts` and `transcribe` commands are a free local route to a voice and its words. Any result that is a list of words with a start and an end is read as it is.
 
 ## The words file
 
