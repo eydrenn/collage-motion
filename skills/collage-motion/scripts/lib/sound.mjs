@@ -131,7 +131,7 @@ export function audioArgs(plan, effectsFile, t0, duration) {
     labels.push("[mu]"); n++;
   }
   if (!labels.length) return null;
-  chains.push(`${labels.join("")}amix=inputs=${labels.length}:normalize=0:dropout_transition=0,apad,alimiter=limit=${fromDb(CEILING_DB).toFixed(3)}:level=disabled[a]`);
+  chains.push(`${labels.join("")}amix=inputs=${labels.length}:normalize=0:dropout_transition=0,apad,alimiter=limit=${fromDb(CEILING_DB - 0.5).toFixed(3)}:level=disabled[a]`);
   return { inputs, output: ["-filter_complex", chains.join(";"), "-map", "0:v", "-map", "[a]", "-t", duration.toFixed(3), "-c:a", "aac", "-b:a", "192k"] };
 }
 

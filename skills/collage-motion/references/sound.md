@@ -98,11 +98,11 @@ You do not balance volumes by hand. Whatever level a file was recorded at:
 
 - **Each effect is brought to the level of its kind.** A tear or a thud sits just under the voice; a rustle is quieter; a letter tap is quiet enough to repeat twelve times a second. A recording that is far too loud or too quiet comes out at the same level as the built-in one it replaces.
 - **Sounds that land on the same drawing give way to each other**, so four pieces popping at once are not four times as loud.
-- **The voice is brought to a standard loudness** (-16 LUFS), and the music is set relative to it.
+- **The voice is brought to a standard loudness** (-14 LUFS, what the vertical-video apps play at), and the music is set relative to it.
 - **While the voice speaks, the music drops a lot and the effects drop a little.**
 - **Nothing clips**: the mix is limited 1 dB under the ceiling.
 
-Every video ends with a line that reports what it measured, for example `sound: 54 effects, narration, music at -16.1 LUFS, peak -4.8 dB`. With a narration, expect a number near -16. With effects only it is lower (around -22), because effects are short and the silence between them counts.
+Every video ends with a line that reports what it measured, for example `sound: 54 effects, narration, music at -14.2 LUFS, peak -4.1 dB`. With a narration, expect a number near -14. With effects only it is lower (around -20), because effects are short and the silence between them counts.
 
 `effects`, `musicVolume`, `narrationVolume` and `gain` are for taste, on top of that: `gain: { letter: 0.5 }` halves the taps, `effects: 0.7` pulls every effect down together.
 

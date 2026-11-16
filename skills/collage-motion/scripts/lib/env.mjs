@@ -101,7 +101,7 @@ export async function shoot(browser, html, file, { width = 2700, height = 1400, 
 }
 
 export async function measureFont(browser) {
-  const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789ÁÀÂÃÉÊÍÓÔÕÚÜÇÑ.,:;!?-–+=/()$%'\"×<>#_*&@•";
+  const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789ÁÀÂÃÉÊÍÓÔÕÚÜÇÑ.,:;!?¿¡-–+=/()$%'\"×<>#_*&@•";
   const page = await browser.newPage();
   await page.setContent(`<style>${FONT_CSS}</style><canvas></canvas>`);
   const metrics = await page.evaluate(async (chars) => {
