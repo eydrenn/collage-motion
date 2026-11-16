@@ -3,7 +3,7 @@ import { readFileSync, existsSync } from "node:fs";
 import { resolve } from "node:path";
 import { PROJECT, UsageError } from "./env.mjs";
 
-const norm = (s) => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9']+/g, " ").trim();
+const norm = (s) => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/-/g, "").replace(/[^a-z0-9']+/g, " ").trim();
 
 export function parseWords(data) {
   let raw;
@@ -17,8 +17,8 @@ export function parseWords(data) {
       const piece = { word: t.text, start: t.offsets.from / 1000, end: t.offsets.to / 1000 };
       if (raw.length && !/^\s/.test(t.text) && /^[\p{L}\p{N}']/u.test(t.text)) { raw[raw.length - 1].word += t.text; raw[raw.length - 1].end = piece.end; } else raw.push(piece);
     }
-  } else if (data.alignment || data.normalized_alignment) {
-    const a = data.alignment || data.normalized_alignment, starts = a.character_start_times_seconds, ends = a.character_end_times_seconds;
+  } else if (data.alignment || data.normalized_alignment || data.characters) {
+    const a = data.alignment || data.normalized_alignment || data, starts = a.character_start_times_seconds, ends = a.character_end_times_seconds;
     raw = [];
     let cur = null;
     a.characters.forEach((ch, i) => {
@@ -27,7 +27,9 @@ export function parseWords(data) {
       cur.word += ch; cur.end = ends[i];
     });
   } else throw new UsageError('the words file has a shape this tool does not know. The simplest one is a list: [{ "word": "deploy", "start": 4.2, "end": 4.6 }]');
-  return raw.map((w) => ({ text: String(w.word ?? w.text ?? "").trim(), start: Number(w.start), end: Number(w.end ?? w.start) }))
+  let tag = false;
+  raw = raw.filter((w) => { const t = String(w.word ?? w.text ?? w.w ?? "").trim(), open = tag || t.startsWith("["); tag = open && !t.endsWith("]"); return !open; });
+  return raw.map((w) => ({ text: String(w.word ?? w.text ?? w.w ?? "").trim(), start: Number(w.start), end: Number(w.end ?? w.start) }))
     .filter((w) => w.text && Number.isFinite(w.start)).map((w) => ({ ...w, key: norm(w.text) })).filter((w) => w.key);
 }
 
