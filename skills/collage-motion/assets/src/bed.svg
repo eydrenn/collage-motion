@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 360">
+  <!-- Bed seen from the side: arched headboard, mattress, blue blanket with a folded-back edge and a pillow. -->
+  <g id="bed">
+    <polygon points="28,98 40,56 62,36 90,42 96,76 92,316 38,322" fill="brown"/>
+    <polygon points="50,90 60,66 78,58 80,100 78,290 56,292" fill="coffee" data-rim="0"/>
+    <polygon points="556,200 596,190 602,318 560,320" fill="brown"/>
+    <polygon points="94,312 128,310 124,350 96,348" fill="brown" data-rim="0"/>
+    <polygon points="518,310 558,312 554,346 524,350" fill="brown" data-rim="0"/>
+    <polygon points="70,228 520,224 592,220 588,318 74,322" fill="kraft"/>
+    <polygon points="92,168 580,162 586,236 88,242" fill="cream"/>
+    <polygon points="84,276 574,270 576,300 86,306" fill="coffee" data-rim="0"/>
+  </g>
+  <g id="blanket">
+    <polygon points="190,148 330,144 588,140 594,238 186,244 200,196" fill="blue"/>
+    <polygon points="196,172 330,168 590,164 590,190 190,196" fill="sky" data-rim="0"/>
+    <polygon points="190,148 292,146 326,172 196,176" fill="cream" data-rim="0"/>
+    <polygon points="186,244 380,240 560,236 566,262 360,262 190,258" fill="navy" data-rim="0"/>
+  </g>
+  <g id="pillow">
+    <polygon points="98,134 150,116 206,122 220,166 168,182 104,178" fill="white" data-shadow="2"/>
+  </g>
+</svg>

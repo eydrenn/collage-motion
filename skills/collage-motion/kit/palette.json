@@ -1,0 +1,48 @@
+{
+  "paper": {
+    "white": "#F4EFE3",
+    "cream": "#E9DFC6",
+    "sand": "#D6C6A0",
+    "kraft": "#B88A5C",
+    "brown": "#7B5337",
+    "coffee": "#4B3327",
+    "black": "#1B1A20",
+    "graphite": "#44464F",
+    "gray": "#8F9096",
+    "silver": "#C4C5C8",
+    "red": "#CF4530",
+    "brick": "#9E3120",
+    "orange": "#E7842D",
+    "yellow": "#ECBD46",
+    "ochre": "#C79838",
+    "green": "#5F9C6C",
+    "moss": "#47705A",
+    "sky": "#9DC8E6",
+    "blue": "#3E6FD0",
+    "teal": "#3F7F98",
+    "navy": "#232A52",
+    "purple": "#5A4A84",
+    "lilac": "#9080B9",
+    "pink": "#E499A5",
+    "skin-light": "#E3B48D",
+    "skin-medium": "#C48E64",
+    "skin-dark": "#8E5F43"
+  },
+  "backgrounds": [
+    "sand",
+    "navy",
+    "red",
+    "sky",
+    "moss",
+    "purple",
+    "yellow",
+    "teal"
+  ],
+  "ransom": [
+    "cream",
+    "yellow",
+    "white",
+    "sand",
+    "ochre"
+  ]
+}

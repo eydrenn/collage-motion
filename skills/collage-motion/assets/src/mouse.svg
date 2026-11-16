@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 300">
+  <!-- Computer mouse with two buttons and a wheel, plus the cable. -->
+  <g id="cable">
+    <path d="M110 40 C 108 20, 130 14, 150 18" stroke="graphite" stroke-width="7" fill="none" data-rim="0"/>
+  </g>
+  <g id="body">
+    <path d="M42 130 C 40 70, 76 44, 112 42 C 150 44, 184 72, 180 134 C 182 200, 160 276, 110 280 C 60 278, 40 200, 42 130 Z" fill="silver"/>
+    <path d="M50 134 C48 88, 70 64, 106 58 L108 138 Z" fill="cream" data-rim="0"/>
+    <path d="M116 58 C152 64, 174 90, 172 136 L114 138 Z" fill="sand" data-rim="0"/>
+    <polygon points="100,78 118,77 119,116 101,117" fill="orange" data-rim="0"/>
+  </g>
+</svg>

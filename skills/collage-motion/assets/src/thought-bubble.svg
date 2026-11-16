@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 270">
+  <!-- Cloud-shaped thought bubble with trailing dots, no text. -->
+  <g id="cloud">
+    <path d="M60 130 C20 120 24 66 66 64 C70 24 130 18 156 44 C180 14 250 22 252 64 C300 62 316 124 274 140 C282 176 232 198 204 184 C180 206 124 204 112 178 C80 192 36 168 60 130 Z" fill="cream" data-shadow="2" data-crease="1"/>
+    <polygon points="70,86 100,50 150,48 120,84 88,112" fill="white" data-shadow="0" data-rim="0"/>
+    <polygon points="196,150 250,126 270,134 240,168 208,172" fill="sand" data-shadow="0" data-rim="0"/>
+  </g>
+  <g id="dots">
+    <ellipse cx="100" cy="224" rx="18" ry="16" fill="cream" data-shadow="2"/>
+    <ellipse cx="62" cy="252" rx="10" ry="9" fill="cream" data-cut="smooth" data-rim="0"/>
+  </g>
+</svg>

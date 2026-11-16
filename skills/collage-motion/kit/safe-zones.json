@@ -1,0 +1,99 @@
+{
+  "frame": {
+    "width": 1080,
+    "height": 1920
+  },
+  "about": "Where each app draws its own interface over a vertical video, in pixels of a 1080x1920 frame. `covered` are rectangles measured on the mobile web versions (375x812 screen, 16 Nov 2026), scaled to the frame as if the video filled the screen: what was actually under buttons and text. `margins` and `column` ([from x, from y, to y]) are the published safe zones for ads, a stricter limit used with `margins: \"ads\"`. `top` is the room kept for the header the native apps draw and the web versions do not. `bottom` replaces the measurement where the web version cannot show it.",
+  "platforms": {
+    "tiktok": {
+      "margins": {
+        "top": 240,
+        "bottom": 660,
+        "left": 120,
+        "right": 120
+      },
+      "covered": [
+        [
+          0,
+          0,
+          1080,
+          98
+        ],
+        [
+          913,
+          932,
+          1080,
+          1753
+        ],
+        [
+          0,
+          1497,
+          1080,
+          1920
+        ]
+      ],
+      "source": "TikTok Ads, In-Feed safe zone template",
+      "column": [
+        780,
+        840,
+        1260
+      ]
+    },
+    "instagram": {
+      "margins": {
+        "top": 269,
+        "bottom": 672,
+        "left": 65,
+        "right": 65
+      },
+      "covered": [
+        [
+          950,
+          1119,
+          1080,
+          1920
+        ],
+        [
+          0,
+          1569,
+          1080,
+          1920
+        ]
+      ],
+      "sideCrop": 97,
+      "source": "Meta Business Help Center, safe zone for ads in Stories and Reels (14% top, 35% bottom, 6% each side)",
+      "column": [
+        1015,
+        1248,
+        1920
+      ]
+    },
+    "youtube": {
+      "margins": {
+        "top": 192,
+        "bottom": 480,
+        "left": 0,
+        "right": 108
+      },
+      "covered": [
+        [
+          907,
+          1417,
+          1080,
+          1920
+        ]
+      ],
+      "source": "Google, YouTube Shorts ads (10% top, 25% bottom, 10% right)",
+      "column": [
+        972,
+        1440,
+        1920
+      ],
+      "bottom": 1440,
+      "note": "On the mobile web the title and channel sit below the video, so the bottom could not be measured: the published margin is used."
+    }
+  },
+  "top": 192,
+  "side": 60,
+  "buffer": 24
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 200">
+  <!-- Closed envelope with a blue flap. -->
+  <g id="body">
+    <polygon points="22,54 238,48 242,172 20,178" fill="cream" data-shadow="2"/>
+    <polygon points="22,176 130,100 240,170" fill="sand" data-rim="0"/>
+  </g>
+  <g id="flap" data-pivot="130,52">
+    <polygon points="20,54 240,48 134,134" fill="blue" data-shadow="2"/>
+  </g>
+</svg>

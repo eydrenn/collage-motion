@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280">
+  <!-- Blue floppy disk with a metal shutter and a label. -->
+  <g id="body">
+    <polygon points="28,24 218,20 256,58 252,254 26,258" fill="blue"/>
+    <polygon points="76,24 202,22 204,108 74,110" fill="silver" data-rim="0"/>
+    <polygon points="164,36 190,35 191,92 165,93" fill="graphite" data-rim="0" data-shadow="0"/>
+    <polygon points="58,148 224,146 226,244 56,246" fill="cream" data-rim="0"/>
+    <line x1="74" y1="176" x2="190" y2="175" stroke="red" stroke-width="8" data-rim="0"/>
+    <line x1="74" y1="204" x2="150" y2="203" stroke="gray" stroke-width="6" data-rim="0"/>
+  </g>
+</svg>

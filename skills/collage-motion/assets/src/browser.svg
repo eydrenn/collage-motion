@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 320">
+  <!-- Browser window with an address bar and page blocks. -->
+  <g id="window">
+    <polygon points="22,24 416,20 422,292 18,298" fill="cream"/>
+    <polygon points="22,24 416,20 417,70 21,74" fill="blue" data-rim="0"/>
+    <circle cx="46" cy="46" r="7" fill="cream" data-cut="smooth" data-shadow="0"/>
+    <circle cx="68" cy="46" r="7" fill="cream" data-cut="smooth" data-shadow="0"/>
+    <polygon points="92,36 386,34 388,58 91,60" fill="white" data-rim="0"/>
+    <line x1="104" y1="47" x2="190" y2="47" stroke="gray" stroke-width="6" data-rim="0"/>
+  </g>
+  <g id="page">
+    <polygon points="40,92 400,90 401,150 39,152" fill="orange"/>
+    <polygon points="40,170 148,169 149,268 39,270" fill="teal" data-rim="0"/>
+    <polygon points="162,169 270,168 271,267 163,269" fill="yellow" data-rim="0"/>
+    <polygon points="284,168 400,167 401,266 285,268" fill="sky" data-rim="0"/>
+    <line x1="60" y1="122" x2="230" y2="122" stroke="cream" stroke-width="10" data-rim="0"/>
+  </g>
+</svg>

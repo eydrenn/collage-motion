@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300">
+  <!-- Dark terminal window with a prompt and three lines of output. -->
+  <g id="window">
+    <polygon points="24,24 396,20 400,268 20,274" fill="graphite"/>
+    <polygon points="24,24 396,20 397,56 23,60" fill="gray" data-rim="0"/>
+    <circle cx="52" cy="40" r="8" fill="red" data-cut="smooth" data-shadow="0"/>
+    <circle cx="76" cy="40" r="8" fill="yellow" data-cut="smooth" data-shadow="0"/>
+    <circle cx="100" cy="40" r="8" fill="green" data-cut="smooth" data-shadow="0"/>
+  </g>
+  <g id="lines">
+    <polyline points="48,90 66,102 48,114" stroke="green" stroke-width="7" fill="none" data-rim="0"/>
+    <line x1="84" y1="102" x2="190" y2="102" stroke="white" stroke-width="8"/>
+    <line x1="48" y1="140" x2="250" y2="140" stroke="sky" stroke-width="8"/>
+    <line x1="48" y1="168" x2="204" y2="168" stroke="yellow" stroke-width="8"/>
+    <line x1="48" y1="196" x2="288" y2="196" stroke="silver" stroke-width="8"/>
+  </g>
+  <g id="cursor">
+    <polygon points="48,222 70,221 71,246 49,247" fill="orange" data-rim="0"/>
+  </g>
+</svg>

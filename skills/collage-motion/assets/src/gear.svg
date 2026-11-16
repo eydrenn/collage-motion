@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <!-- Eight-tooth gear with an open hub. -->
+  <g id="gear" data-pivot="150,150">
+    <polygon points="244,121 276,128 279,169 244,179 237,196 254,225 229,257 196,237 179,244 169,277 131,279 121,244 104,237 76,255 43,229 63,196 56,179 24,170 21,131 56,121 63,104 47,74 71,43 104,63 121,56 128,24 169,21 179,56 196,63 225,46 257,71 237,104" fill="ochre"/>
+    <circle cx="150" cy="150" r="66" fill="yellow" data-rim="0"/>
+    <polygon points="112,150 132,112 172,118 190,152 170,190 128,188" fill="cream" data-rim="0"/>
+    <circle cx="150" cy="150" r="22" fill="graphite" data-cut="smooth" data-shadow="0"/>
+  </g>
+</svg>

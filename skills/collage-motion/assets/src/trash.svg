@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 300">
+  <!-- Grey office bin with a lid and a crumpled paper sticking out. -->
+  <g id="bin">
+    <polygon points="76,60 128,34 150,78 100,104" fill="cream" data-shadow="2" data-rim="0"/>
+    <polygon points="52,86 188,84 172,262 68,266" fill="gray"/>
+    <polygon points="40,70 200,66 204,96 38,100" fill="graphite"/>
+    <line x1="92" y1="120" x2="96" y2="240" stroke="silver" stroke-width="8" data-rim="0"/>
+    <line x1="120" y1="120" x2="120" y2="244" stroke="silver" stroke-width="8" data-rim="0"/>
+    <line x1="148" y1="120" x2="144" y2="240" stroke="silver" stroke-width="8" data-rim="0"/>
+  </g>
+</svg>

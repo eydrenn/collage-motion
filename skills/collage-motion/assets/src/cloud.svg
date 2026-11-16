@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240">
+  <!-- Cloud cut in angles. -->
+  <g id="cloud">
+    <polygon points="40,196 28,152 60,118 102,118 120,76 172,54 224,72 246,112 294,116 330,152 320,196" fill="white" data-crease="2" data-shadow="2"/>
+  </g>
+</svg>

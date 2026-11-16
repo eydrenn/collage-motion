@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 300">
+  <!-- Picture in a dark frame with a simple landscape: sun, mountain and field. -->
+  <g id="picture">
+    <polygon points="24,28 336,22 340,274 20,280" fill="graphite"/>
+    <polygon points="46,50 316,46 318,252 44,256" fill="sky" data-rim="0"/>
+    <circle cx="106" cy="104" r="22" fill="yellow" data-cut="smooth" data-rim="0"/>
+    <polygon points="132,200 206,98 252,160 280,126 318,170 318,252 132,256" fill="teal" data-rim="0"/>
+    <polygon points="44,214 110,192 190,214 318,208 318,252 44,256" fill="green" data-rim="0"/>
+  </g>
+</svg>

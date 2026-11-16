@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 190">
+  <!-- Green check mark. -->
+  <g id="check" data-pivot="100,95">
+    <polygon points="18,102 48,72 82,106 156,24 186,54 84,162" fill="moss" data-shadow="2"/>
+    <polygon points="30,102 48,84 82,118 154,38 170,54 84,144" fill="green"/>
+  </g>
+</svg>

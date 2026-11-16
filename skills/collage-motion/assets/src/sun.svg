@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320">
+  <!-- Sun: orange-yellow disc with eight triangular rays around it. -->
+  <g id="rays" data-pivot="160,160">
+    <polygon points="160,16 178,62 142,62" fill="orange" data-rim="0"/>
+    <polygon points="160,304 178,258 142,258" fill="orange" data-rim="0"/>
+    <polygon points="16,160 62,142 62,178" fill="orange" data-rim="0"/>
+    <polygon points="304,160 258,142 258,178" fill="orange" data-rim="0"/>
+    <polygon points="58,58 100,74 74,100" fill="orange" data-rim="0"/>
+    <polygon points="262,58 246,100 220,74" fill="orange" data-rim="0"/>
+    <polygon points="58,262 74,220 100,246" fill="orange" data-rim="0"/>
+    <polygon points="262,262 220,246 246,220" fill="orange" data-rim="0"/>
+  </g>
+  <g id="disc" data-pivot="160,160">
+    <circle cx="160" cy="160" r="78" fill="yellow"/>
+    <circle cx="160" cy="160" r="48" fill="cream" data-rim="0" data-shadow="0"/>
+  </g>
+</svg>

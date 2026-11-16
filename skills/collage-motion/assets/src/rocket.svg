@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 440">
+  <!-- Paper rocket pointing up, with a window, fins and a flame. -->
+  <g id="flame" data-pivot="130,320">
+    <polygon points="86,322 176,320 146,414 128,390 112,424" fill="orange"/>
+    <polygon points="108,322 156,321 138,372 124,360" fill="yellow" data-rim="0"/>
+  </g>
+  <g id="fins">
+    <polygon points="76,230 32,300 28,350 80,316" fill="red"/>
+    <polygon points="186,228 232,300 230,350 182,316" fill="red"/>
+  </g>
+  <g id="body">
+    <polygon points="130,24 176,90 188,200 184,330 76,332 70,198 84,92" fill="cream"/>
+    <polygon points="130,24 176,90 84,92" fill="red" data-rim="0"/>
+    <circle cx="130" cy="170" r="30" fill="graphite" data-cut="smooth"/>
+    <circle cx="130" cy="170" r="20" fill="sky" data-cut="smooth" data-shadow="0"/>
+    <polygon points="72,290 186,288 185,314 76,316" fill="blue" data-rim="0"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 400">
+  <!-- Window with a view of blue sky and one cloud, in a light wooden frame. -->
+  <g id="view">
+    <polygon points="48,48 272,44 276,352 44,356" fill="sky"/>
+    <polygon points="56,236 118,208 168,224 232,202 268,224 270,340 54,344" fill="green" data-rim="0"/>
+    <polygon points="84,112 114,94 156,98 182,114 172,134 92,138" fill="white" data-shadow="2" data-rim="0"/>
+  </g>
+  <g id="frame">
+    <polygon points="40,40 280,36 286,362 34,366" stroke="brown" stroke-width="22"/>
+    <line x1="160" y1="44" x2="162" y2="358" stroke="brown" stroke-width="12" data-rim="0"/>
+    <line x1="48" y1="200" x2="276" y2="196" stroke="brown" stroke-width="12" data-rim="0"/>
+    <polygon points="22,362 296,356 300,384 18,388" fill="kraft"/>
+  </g>
+</svg>

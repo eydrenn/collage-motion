@@ -1,0 +1,18 @@
+{
+  "name": "collage-motion",
+  "description": "Make paper-cutout (collage) art, characters, still frames and short videos from plain SVG and JSON files: mosaic paper backgrounds, pieces with grain and shadow, ransom-note letters, the sheet tearing between shots, movement at 12 drawings a second. Rendered locally with a headless browser and ffmpeg.",
+  "version": "0.1.0",
+  "author": {
+    "name": "eydrenn"
+  },
+  "keywords": [
+    "video",
+    "animation",
+    "collage",
+    "paper",
+    "cutout",
+    "motion",
+    "stop-motion"
+  ],
+  "license": "MIT"
+}

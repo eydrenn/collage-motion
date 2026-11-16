@@ -1,0 +1,21 @@
+{
+  "name": "collage-motion",
+  "version": "0.1.0",
+  "description": "Paper-cutout art, characters, stills and video, rendered from plain SVG and JSON files.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "collage": "scripts/collage.mjs"
+  },
+  "scripts": {
+    "doctor": "node scripts/collage.mjs doctor",
+    "test": "node scripts/collage.mjs selftest"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "playwright-core": "^1.56.0"
+  }
+}

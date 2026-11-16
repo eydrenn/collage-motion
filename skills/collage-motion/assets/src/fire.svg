@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 230">
+  <!-- Flame in two layers. -->
+  <g id="flame-outer" data-pivot="84,210">
+    <path d="M86 14 C92 58 148 78 146 142 C144 192 110 214 84 212 C48 210 22 186 24 142 C26 100 50 92 58 54 C74 70 78 40 86 14 Z" fill="red" data-shadow="2"/>
+    <path d="M88 40 C96 76 132 92 130 140 C128 180 104 198 84 196 C58 194 38 176 40 142 C42 112 62 104 70 80 C82 90 84 62 88 40 Z" fill="orange"/>
+  </g>
+  <g id="flame-inner" data-pivot="84,200">
+    <path d="M86 94 C90 120 118 130 116 162 C114 186 98 196 84 196 C64 194 52 182 54 160 C56 140 74 130 78 116 C84 120 86 106 86 94 Z" fill="yellow"/>
+    <path d="M86 150 C90 162 100 166 98 180 C96 190 90 192 84 192 C74 190 70 182 72 174 C74 166 84 162 86 150 Z" fill="cream" data-rim="0"/>
+  </g>
+</svg>

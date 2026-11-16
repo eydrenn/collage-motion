@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320">
+  <!-- Friendly bug seen from above: green body with spots, head with eyes, antennas and legs. -->
+  <g id="antennas" data-pivot="160,86">
+    <line x1="140" y1="86" x2="108" y2="32" stroke="graphite" stroke-width="7"/>
+    <line x1="180" y1="86" x2="212" y2="32" stroke="graphite" stroke-width="7"/>
+    <circle cx="106" cy="30" r="9" fill="orange" data-cut="smooth" data-shadow="0"/>
+    <circle cx="214" cy="30" r="9" fill="orange" data-cut="smooth" data-shadow="0"/>
+  </g>
+  <g id="legs">
+    <line x1="92" y1="160" x2="38" y2="140" stroke="graphite" stroke-width="8"/>
+    <line x1="88" y1="206" x2="32" y2="216" stroke="graphite" stroke-width="8"/>
+    <line x1="100" y1="248" x2="54" y2="288" stroke="graphite" stroke-width="8"/>
+    <line x1="228" y1="160" x2="284" y2="140" stroke="graphite" stroke-width="8"/>
+    <line x1="232" y1="206" x2="288" y2="216" stroke="graphite" stroke-width="8"/>
+    <line x1="220" y1="248" x2="266" y2="288" stroke="graphite" stroke-width="8"/>
+  </g>
+  <g id="body">
+    <path d="M160 108 C 96 112, 78 180, 92 240 C 106 292, 214 292, 228 240 C 242 180, 224 112, 160 108 Z" fill="green"/>
+    <polygon points="160,120 164,284 156,284" fill="moss" data-rim="0" data-shadow="0"/>
+    <circle cx="122" cy="170" r="16" fill="moss" data-cut="smooth" data-shadow="0"/>
+    <circle cx="200" cy="198" r="18" fill="moss" data-cut="smooth" data-shadow="0"/>
+    <circle cx="128" cy="236" r="14" fill="moss" data-cut="smooth" data-shadow="0"/>
+    <path d="M114 100 C 116 64, 204 62, 208 100 C 200 126, 124 128, 114 100 Z" fill="graphite"/>
+    <circle cx="140" cy="94" r="11" fill="white" data-cut="smooth" data-shadow="0"/>
+    <circle cx="180" cy="94" r="11" fill="white" data-cut="smooth" data-shadow="0"/>
+    <circle cx="142" cy="96" r="5" fill="black" data-cut="smooth" data-shadow="0"/>
+    <circle cx="182" cy="96" r="5" fill="black" data-cut="smooth" data-shadow="0"/>
+  </g>
+</svg>

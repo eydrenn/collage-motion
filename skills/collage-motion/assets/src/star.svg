@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Yellow five-pointed star. -->
+  <g id="star" data-pivot="100,104">
+    <polygon points="100,14 126,70 184,76 142,114 152,172 100,142 50,170 58,114 18,74 76,68" fill="ochre" data-shadow="2"/>
+    <polygon points="100,26 120,74 172,80 134,112 142,160 100,134 56,158 66,112 30,78 80,72" fill="yellow"/>
+    <polygon points="88,52 98,44 102,58 92,86 84,82" fill="cream" data-shadow="0" data-rim="0"/>
+  </g>
+</svg>

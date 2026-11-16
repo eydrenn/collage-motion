@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 240">
+  <!-- Power plug with a tapered blue body, two metal pins and a looping cable leaving to the left. -->
+  <g id="cable">
+    <path d="M24 196 C 60 232, 96 218, 112 176 C 128 130, 96 100, 130 92 C 166 84, 176 128, 214 118" stroke="graphite" stroke-width="16" fill="none" data-smooth="1"/>
+  </g>
+  <g id="plug">
+    <polygon points="334,86 440,82 441,98 336,102" fill="silver" data-rim="0"/>
+    <polygon points="336,140 438,136 440,152 335,156" fill="silver" data-rim="0"/>
+    <polygon points="190,102 232,94 236,136 192,142" fill="gray" data-rim="0"/>
+    <polygon points="226,84 262,56 336,50 344,70 346,170 338,192 262,190 228,160" fill="blue"/>
+    <polygon points="250,80 318,76 320,86 252,92" fill="sky" data-rim="0"/>
+    <polygon points="252,112 320,108 322,118 254,124" fill="sky" data-rim="0"/>
+    <polygon points="256,144 322,140 322,150 258,156" fill="sky" data-rim="0"/>
+    <polygon points="334,58 352,56 354,184 336,186" fill="navy" data-rim="0"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 170">
+  <!-- Sweat drop. -->
+  <g id="drop" data-pivot="60,90">
+    <path d="M60 14 L98 86 C114 122 92 154 60 154 C28 154 8 122 24 86 Z" fill="blue" data-shadow="2"/>
+    <path d="M60 36 L88 90 C98 118 82 142 60 142 C40 142 24 120 34 94 Z" fill="sky" data-rim="0"/>
+    <polygon points="42,98 52,94 48,122 40,120" fill="white" data-shadow="0" data-rim="0"/>
+  </g>
+</svg>

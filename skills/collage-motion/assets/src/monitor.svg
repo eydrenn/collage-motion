@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340">
+  <!-- Desktop monitor with a bar chart on the screen. -->
+  <g id="screen">
+    <polygon points="28,20 372,16 376,236 24,240" fill="graphite"/>
+    <polygon points="48,40 354,38 356,216 46,220" fill="teal"/>
+    <polygon points="68,60 196,59 198,120 67,122" fill="cream" data-rim="0"/>
+    <polygon points="214,62 334,60 336,90 213,92" fill="sky" data-rim="0"/>
+    <polygon points="70,196 70,150 96,149 97,196" fill="orange" data-rim="0"/>
+    <polygon points="112,196 112,132 140,131 141,196" fill="yellow" data-rim="0"/>
+    <polygon points="156,197 156,160 184,159 185,197" fill="green" data-rim="0"/>
+    <polygon points="200,197 200,120 228,119 229,197" fill="orange" data-rim="0"/>
+    <polygon points="256,120 334,119 335,196 257,197" fill="cream" data-rim="0"/>
+    <line x1="92" y1="86" x2="170" y2="86" stroke="graphite" stroke-width="8"/>
+  </g>
+  <g id="stand">
+    <polygon points="170,240 230,238 238,288 164,292" fill="gray"/>
+    <polygon points="112,292 288,288 298,320 104,322" fill="silver"/>
+  </g>
+</svg>

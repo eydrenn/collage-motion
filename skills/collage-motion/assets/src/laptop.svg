@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 320">
+  <!-- Open laptop seen from the front, with coloured lines of code on the screen. -->
+  <g id="screen" data-pivot="220,236">
+    <polygon points="58,18 382,18 390,236 50,236" fill="graphite"/>
+    <polygon points="78,38 362,38 366,214 74,214" fill="navy"/>
+    <line x1="100" y1="68" x2="196" y2="68" stroke="yellow" stroke-width="11"/>
+    <line x1="100" y1="96" x2="262" y2="96" stroke="sky" stroke-width="11"/>
+    <line x1="124" y1="124" x2="226" y2="124" stroke="green" stroke-width="11"/>
+    <line x1="124" y1="152" x2="304" y2="152" stroke="white" stroke-width="11"/>
+    <line x1="100" y1="180" x2="178" y2="180" stroke="orange" stroke-width="11"/>
+  </g>
+  <g id="base">
+    <polygon points="30,234 410,234 436,300 4,300" fill="silver"/>
+    <polygon points="72,246 368,246 380,274 60,274" fill="gray" data-rim="0"/>
+    <polygon points="182,280 258,280 262,294 178,294" fill="gray" data-rim="0"/>
+  </g>
+</svg>

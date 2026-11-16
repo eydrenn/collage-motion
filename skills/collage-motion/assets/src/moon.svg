@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320">
+  <!-- Cream crescent moon with three small yellow stars. -->
+  <g id="moon">
+    <path d="M190 40 C100 44 50 120 74 204 C98 276 184 300 252 258 C168 264 120 190 146 118 C158 84 176 60 190 40 Z" fill="cream"/>
+  </g>
+  <g id="stars">
+    <polygon points="236,76 244,96 266,98 250,112 256,134 236,122 218,134 222,112 206,98 228,96" fill="yellow" data-rim="0" data-cut="smooth"/>
+    <polygon points="268,170 273,182 286,183 276,191 280,204 268,196 258,204 261,191 252,183 265,182" fill="yellow" data-rim="0" data-cut="smooth"/>
+    <polygon points="214,196 218,206 228,207 220,213 223,223 214,217 206,223 209,213 201,207 211,206" fill="yellow" data-rim="0" data-cut="smooth"/>
+  </g>
+</svg>

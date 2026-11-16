@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420">
+  <!-- Tree: brown trunk and an angular crown of leaves in two greens. -->
+  <g id="tree">
+    <polygon points="126,200 176,198 184,388 112,390" fill="brown"/>
+    <polygon points="150,34 252,130 232,222 150,246 62,220 44,130" fill="moss"/>
+    <polygon points="150,34 206,86 168,128 112,100" fill="green" data-rim="0"/>
+    <polygon points="196,150 242,138 228,206 176,214" fill="green" data-rim="0"/>
+    <polygon points="68,150 116,160 110,214 62,200" fill="green" data-rim="0"/>
+  </g>
+</svg>

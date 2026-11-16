@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 250">
+  <!-- Blue question mark. -->
+  <g id="question" data-pivot="80,125">
+    <path d="M40 76 C36 22 126 18 124 72 C122 114 78 112 78 154" stroke="navy" stroke-width="36" data-shadow="2"/>
+    <path d="M40 74 C38 28 118 26 116 70 C114 108 72 106 72 150" stroke="blue" stroke-width="30"/>
+    <polygon points="52,190 98,186 102,232 56,236" fill="blue" data-shadow="2"/>
+    <path d="M52 62 C54 44 70 40 80 40" stroke="sky" stroke-width="7" data-shadow="0" data-rim="0"/>
+  </g>
+</svg>

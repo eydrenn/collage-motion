@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160">
+  <!-- Thick arrow pointing right. -->
+  <g id="arrow" data-pivot="120,80">
+    <polygon points="18,58 140,52 142,106 20,112" fill="yellow" data-shadow="2"/>
+    <polygon points="118,16 224,80 120,146 128,80" fill="orange" data-shadow="2"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Anger mark: four red corner pieces forming an open cross. -->
+  <g id="anger" data-pivot="100,100">
+    <polygon points="82,86 86,18 58,20 54,56 16,58 14,84" fill="red" data-shadow="2"/>
+    <polygon points="118,84 114,16 144,20 146,52 186,56 188,86" fill="red" data-shadow="2"/>
+    <polygon points="80,116 84,184 56,180 54,146 14,142 16,116" fill="red" data-shadow="2"/>
+    <polygon points="118,118 116,186 146,182 146,148 186,144 184,116" fill="red" data-shadow="2"/>
+  </g>
+</svg>

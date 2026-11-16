@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 380">
+  <!-- Plant in a clay pot with angular green leaves. -->
+  <g id="leaves" data-pivot="140,250">
+    <polygon points="136,250 78,196 62,100 112,150" fill="green"/>
+    <polygon points="142,250 140,60 172,120 156,210" fill="moss"/>
+    <polygon points="146,250 206,186 232,110 178,160" fill="green"/>
+    <polygon points="132,250 52,236 30,176 98,206" fill="moss" data-rim="0"/>
+    <polygon points="150,250 226,246 254,196 186,214" fill="moss" data-rim="0"/>
+  </g>
+  <g id="pot">
+    <polygon points="70,244 210,240 196,350 86,354" fill="brick"/>
+    <polygon points="62,230 218,226 220,258 60,262" fill="orange"/>
+  </g>
+</svg>

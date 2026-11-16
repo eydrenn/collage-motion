@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 460">
+  <!-- Wooden bookshelf with two shelves of colourful books and a small pot. -->
+  <g id="shelf">
+    <polygon points="30,24 330,20 336,436 24,440" fill="brown"/>
+    <polygon points="52,46 308,44 310,206 50,210" fill="coffee" data-rim="0"/>
+    <polygon points="50,232 310,230 312,414 48,418" fill="coffee" data-rim="0"/>
+    <polygon points="22,210 338,206 340,232 20,236" fill="kraft" data-rim="0"/>
+  </g>
+  <g id="books">
+    <polygon points="64,92 96,90 98,208 64,210" fill="red" data-rim="0"/>
+    <polygon points="100,70 134,68 136,208 102,208" fill="yellow" data-rim="0"/>
+    <polygon points="138,100 168,98 170,208 138,208" fill="blue" data-rim="0"/>
+    <polygon points="176,84 214,98 188,208 172,206" fill="green" data-rim="0"/>
+    <polygon points="230,150 296,148 298,206 230,208" fill="cream" data-rim="0"/>
+    <polygon points="66,280 108,278 110,416 66,418" fill="orange" data-rim="0"/>
+    <polygon points="112,310 144,308 146,416 112,416" fill="cream" data-rim="0"/>
+    <polygon points="150,264 190,262 192,416 150,416" fill="purple" data-rim="0"/>
+    <polygon points="196,296 226,294 228,416 196,416" fill="sky" data-rim="0"/>
+    <polygon points="232,326 304,324 306,416 232,416" fill="red" data-rim="0"/>
+  </g>
+</svg>

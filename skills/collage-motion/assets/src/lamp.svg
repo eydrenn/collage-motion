@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 400">
+  <!-- Articulated desk lamp with a yellow conical shade and a flat base. -->
+  <g id="base">
+    <polygon points="64,344 214,340 230,376 52,380" fill="graphite"/>
+  </g>
+  <g id="arm" data-pivot="110,226">
+    <polyline points="140,346 110,226 176,110" stroke="gray" stroke-width="12" data-rim="0"/>
+    <circle cx="110" cy="226" r="15" fill="silver" data-cut="smooth" data-rim="0"/>
+    <polygon points="160,112 192,84 296,138 234,200" fill="yellow"/>
+    <polygon points="234,200 296,138 306,152 246,214" fill="cream" data-rim="0"/>
+  </g>
+</svg>

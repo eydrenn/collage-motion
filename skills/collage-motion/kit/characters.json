@@ -1,0 +1,10 @@
+{
+  "dev": {"body": "medium", "head": "hex", "skin": "skin-light", "hair": {"style": "short", "color": "coffee"}, "outfit": {"type": "hoodie", "color": "blue"}, "pants": "graphite"},
+  "ana": {"body": "medium", "head": "round", "skin": "skin-medium", "hair": {"style": "long", "color": "black"}, "outfit": {"type": "tshirt", "color": "orange", "detail": "cream"}, "pants": "navy", "shoes": "white"},
+  "boss": {"body": "wide", "head": "square", "skin": "skin-light", "hair": {"style": "bald"}, "mustache": "gray", "glasses": true, "outfit": {"type": "suit", "color": "graphite", "detail": "red"}, "pants": "graphite"},
+  "intern": {"body": "short", "head": "round", "skin": "skin-dark", "hair": {"style": "cap", "color": "black", "cap": "green"}, "outfit": {"type": "tshirt", "color": "yellow"}, "pants": "gray", "shoes": "red"},
+  "client": {"body": "tall", "head": "long", "skin": "skin-medium", "hair": {"style": "curly", "color": "coffee"}, "outfit": {"type": "shirt", "color": "white", "detail": "teal"}, "pants": "brown"},
+  "support": {"body": "medium", "head": "hex", "skin": "skin-dark", "hair": {"style": "bun", "color": "black"}, "headphones": "graphite", "outfit": {"type": "hoodie", "color": "purple"}, "pants": "black", "shoes": "graphite"},
+  "veteran": {"body": "wide", "head": "square", "skin": "skin-light", "hair": {"style": "quiff", "color": "gray"}, "beard": "gray", "outfit": {"type": "shirt", "color": "moss"}, "pants": "coffee"},
+  "designer": {"body": "tall", "head": "long", "skin": "skin-light", "hair": {"style": "buzz", "color": "orange"}, "glasses": true, "outfit": {"type": "tshirt", "color": "black", "detail": "pink"}, "pants": "lilac", "shoes": "white"}
+}

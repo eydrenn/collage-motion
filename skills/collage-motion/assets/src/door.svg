@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 500">
+  <!-- Closed wooden door inside its frame, with a yellow knob. -->
+  <g id="frame">
+    <polygon points="24,24 256,20 262,486 18,490" fill="graphite"/>
+  </g>
+  <g id="door" data-pivot="40,260">
+    <polygon points="42,44 238,40 242,474 38,478" fill="orange"/>
+    <polygon points="66,70 214,68 216,230 64,232" fill="brick" data-rim="0"/>
+    <polygon points="64,258 216,256 218,440 62,444" fill="brick" data-rim="0"/>
+    <circle cx="206" cy="270" r="12" fill="yellow" data-cut="smooth" data-rim="0"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 270">
+  <!-- Coffee mug with steam. -->
+  <g id="steam">
+    <path d="M92 76 C78 58 104 46 92 22" stroke="white" stroke-width="9"/>
+    <path d="M132 78 C120 60 144 50 134 30" stroke="white" stroke-width="9"/>
+  </g>
+  <g id="mug">
+    <path d="M166 126 C214 122 214 204 160 204" stroke="brick" stroke-width="17"/>
+    <polygon points="46,92 174,92 162,244 58,244" fill="red" data-crease="1"/>
+    <ellipse cx="110" cy="94" rx="62" ry="13" fill="coffee"/>
+    <polygon points="70,150 150,150 147,196 73,196" fill="cream"/>
+  </g>
+</svg>

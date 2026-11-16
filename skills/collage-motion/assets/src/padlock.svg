@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 320">
+  <!-- Closed padlock with a metal shackle and a keyhole. -->
+  <g id="shackle" data-pivot="170,140">
+    <path d="M72 140 L72 96 C72 32, 168 32, 168 96 L168 140" stroke="silver" stroke-width="24" fill="none"/>
+  </g>
+  <g id="body">
+    <polygon points="30,136 210,130 216,288 26,294" fill="yellow"/>
+    <polygon points="46,152 196,148 200,196 44,200" fill="ochre" data-rim="0"/>
+    <circle cx="120" cy="214" r="17" fill="graphite" data-cut="smooth" data-shadow="0"/>
+    <polygon points="112,222 128,222 132,258 108,258" fill="graphite" data-rim="0" data-shadow="0"/>
+  </g>
+</svg>

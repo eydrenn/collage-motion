@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 440">
+  <!-- Brick building facade with mixed-size windows, a roof water tank and antenna, and a door with an awning. -->
+  <g id="facade">
+    <polygon points="266,76 270,24 277,24 278,76" fill="graphite" data-rim="0"/>
+    <polygon points="270,28 244,8 250,4 274,22" fill="graphite" data-rim="0"/>
+    <polygon points="274,28 304,12 308,18 276,34" fill="graphite" data-rim="0"/>
+    <polygon points="266,50 296,44 297,50 267,56" fill="graphite" data-rim="0"/>
+    <polygon points="62,72 68,46 74,46 72,72" fill="graphite" data-rim="0"/>
+    <polygon points="122,72 120,46 127,46 132,72" fill="graphite" data-rim="0"/>
+    <polygon points="64,46 62,22 72,14 126,12 138,20 134,46" fill="ochre"/>
+    <polygon points="64,30 136,28 137,36 65,38" fill="graphite" data-rim="0" data-shadow="0"/>
+    <polygon points="58,22 74,8 120,6 140,20 132,16 72,16" fill="graphite" data-rim="0"/>
+    <polygon points="28,88 322,80 334,420 20,424" fill="brick"/>
+    <polygon points="14,70 340,62 342,92 10,100" fill="graphite"/>
+    <polygon points="134,340 218,338 220,420 132,422" fill="ochre" data-rim="0"/>
+    <polygon points="154,356 196,355 197,384 155,386" fill="navy" data-rim="0" data-shadow="0"/>
+    <polygon points="118,318 232,312 242,342 108,348" fill="yellow" data-rim="0"/>
+  </g>
+  <g id="windows">
+    <polygon points="48,128 112,126 114,176 49,180" fill="yellow" data-rim="0"/>
+    <polygon points="140,126 176,125 178,186 141,188" fill="navy" data-rim="0"/>
+    <polygon points="206,128 272,126 274,172 207,176" fill="navy" data-rim="0"/>
+    <polygon points="290,126 316,126 316,170 291,172" fill="yellow" data-rim="0"/>
+    <polygon points="46,210 84,209 85,264 47,266" fill="navy" data-rim="0"/>
+    <polygon points="110,212 176,210 178,258 111,261" fill="navy" data-rim="0"/>
+    <polygon points="204,208 238,207 240,262 205,264" fill="yellow" data-rim="0"/>
+    <polygon points="262,210 318,208 318,256 263,259" fill="navy" data-rim="0"/>
+    <polygon points="48,294 110,292 111,306 49,308" fill="navy" data-rim="0"/>
+    <polygon points="140,284 172,283 174,310 141,311" fill="navy" data-rim="0"/>
+    <polygon points="262,282 318,280 320,308 263,310" fill="yellow" data-rim="0"/>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+{
+  "name": "demo-still",
+  "frames": [
+    {
+      "width": 1080, "height": 1920,
+      "background": { "color": "navy", "seed": 3 },
+      "layers": [
+        { "type": "band", "y": 1480, "height": 500, "color": "coffee" },
+        { "type": "art", "name": "window", "x": 80, "y": 330, "scale": 1.05 },
+        { "type": "art", "name": "clock", "x": 740, "y": 380, "scale": 0.8 },
+        { "type": "art", "name": "server", "x": 700, "y": 930, "scale": 1.4 },
+        { "type": "character", "name": "dev", "face": "suspicious", "pose": "point", "x": 110, "y": 700, "scale": 1.75 },
+        { "type": "art", "name": "anger", "x": 610, "y": 640, "scale": 0.7, "rotate": 8 },
+        { "type": "art", "name": "mug", "x": 560, "y": 1250, "scale": 0.95 },
+        { "type": "text", "text": "FRIDAY", "place": "title", "size": 104, "ransom": "" },
+        { "type": "text", "text": "SOMEONE SAID DEPLOY?", "place": "caption", "size": 52, "strip": "black", "tilt": -1.5 }
+      ]
+    },
+    {
+      "width": 1080, "height": 1920,
+      "background": { "color": "moss", "seed": 4 },
+      "layers": [
+        { "type": "band", "y": 1500, "height": 480, "color": "graphite" },
+        { "type": "art", "name": "monitor", "x": 300, "y": 520, "scale": 1.35 },
+        { "type": "art", "name": "desk", "x": 90, "y": 960, "scale": 1.25 },
+        { "type": "character", "name": "boss", "face": "angry", "pose": "scold", "x": 70, "y": 870, "scale": 1.45 },
+        { "type": "character", "name": "intern", "face": "scared", "pose": "shrug", "x": 590, "y": 960, "scale": 1.4 },
+        { "type": "art", "name": "exclamation", "x": 900, "y": 700, "scale": 0.9, "rotate": 10 },
+        { "type": "art", "name": "fire", "x": 480, "y": 380, "scale": 1.1 },
+        { "type": "text", "text": "DOWN", "place": "title", "size": 120, "ransom": "white,cream,yellow" },
+        { "type": "text", "text": "WHO TOUCHED IT?", "place": "caption", "size": 58, "strip": "cream", "tilt": 1.2 },
+        { "type": "tear", "at": 70, "color": "red", "mosaic": true }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <!-- Text samples: ransom letters (each on its own paper) and strips in four colours. -->
+  <g id="ransom"><text x="450" y="120" font-size="78" text-anchor="middle" data-ransom="">COLLAGE</text></g>
+  <g id="strip-black"><text x="450" y="240" font-size="46" text-anchor="middle" data-strip="black">ONE LINE PER BEAT</text></g>
+  <g id="strip-cream"><text x="250" y="350" font-size="46" text-anchor="middle" data-strip="cream">BLACK LETTERS</text></g>
+  <g id="strip-red"><text x="660" y="350" font-size="46" text-anchor="middle" data-strip="red">HIGHLIGHT</text></g>
+  <g id="strip-yellow"><text x="250" y="470" font-size="46" text-anchor="middle" data-strip="yellow">DÉJÀ VU?</text></g>
+  <g id="loose"><text x="660" y="470" font-size="60" text-anchor="middle" fill="white">LOOSE!</text></g>
+</svg>

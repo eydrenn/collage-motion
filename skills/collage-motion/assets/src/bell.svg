@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 250">
+  <!-- Golden bell with a clapper. -->
+  <g id="bell" data-pivot="110,28">
+    <polygon points="98,14 124,12 126,36 96,36" fill="ochre" data-rim="0"/>
+    <path d="M110 30 C152 30 160 70 162 110 C164 140 178 156 194 170 L26 176 C44 160 58 140 58 108 C60 66 70 30 110 30 Z" fill="yellow" data-shadow="2"/>
+    <polygon points="28,166 194,162 198,182 24,186" fill="orange" data-rim="0"/>
+    <polygon points="78,70 92,52 100,56 86,122 76,120" fill="cream" data-shadow="0" data-rim="0"/>
+  </g>
+  <g id="clapper" data-pivot="110,184">
+    <ellipse cx="110" cy="204" rx="22" ry="20" fill="coffee" data-cut="smooth"/>
+  </g>
+</svg>

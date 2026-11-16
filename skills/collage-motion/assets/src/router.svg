@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <!-- Desktop router with two antennas, lights and ports. -->
+  <g id="antennas" data-pivot="200,170">
+    <polygon points="74,192 96,190 66,36 52,38" fill="graphite"/>
+    <polygon points="308,190 330,192 352,40 338,36" fill="graphite"/>
+    <polygon points="48,40 70,32 70,50 50,56" fill="orange" data-rim="0"/>
+    <polygon points="336,34 358,40 356,56 336,52" fill="orange" data-rim="0"/>
+  </g>
+  <g id="body">
+    <polygon points="24,176 376,170 386,244 14,250" fill="navy"/>
+    <polygon points="38,190 362,186 366,206 36,210" fill="sky" data-rim="0" data-shadow="0"/>
+    <circle cx="72" cy="228" r="9" fill="green" data-cut="smooth" data-shadow="0"/>
+    <circle cx="104" cy="228" r="9" fill="yellow" data-cut="smooth" data-shadow="0"/>
+    <circle cx="136" cy="228" r="9" fill="green" data-cut="smooth" data-shadow="0"/>
+    <polygon points="230,216 262,215 263,238 231,239" fill="silver" data-rim="0"/>
+    <polygon points="272,215 304,214 305,237 273,238" fill="silver" data-rim="0"/>
+    <polygon points="314,214 346,213 347,236 315,237" fill="silver" data-rim="0"/>
+  </g>
+</svg>

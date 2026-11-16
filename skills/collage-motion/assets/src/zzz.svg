@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 250">
+  <!-- Three letter Zs of growing size, for sleep. -->
+  <g id="zzz" data-pivot="40,210">
+    <polygon points="22,180 72,176 72,190 38,216 72,214 70,230 20,228 22,214 54,190 20,192" fill="sky"/>
+    <polygon points="80,122 160,120 158,142 110,180 162,178 160,202 78,200 80,180 130,142 78,144" fill="lilac" data-shadow="2"/>
+    <polygon points="172,10 284,8 282,38 212,92 284,90 280,120 170,118 172,90 242,40 170,40" fill="purple" data-shadow="2"/>
+  </g>
+</svg>

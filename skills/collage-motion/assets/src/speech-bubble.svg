@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 250">
+  <!-- Empty speech bubble; put a text layer on top of it. -->
+  <g id="bubble" data-pivot="100,220">
+    <path d="M30 104 C30 30 310 30 310 104 C310 164 220 178 160 176 L96 226 L116 170 C66 160 30 142 30 104 Z" fill="cream" data-shadow="2"/>
+  </g>
+</svg>

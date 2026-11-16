@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 400">
+  <!-- Upright phone with a screen of colourful apps. -->
+  <g id="phone">
+    <polygon points="30,24 188,20 194,374 26,380" fill="graphite"/>
+    <polygon points="44,50 176,48 178,350 42,354" fill="sky"/>
+    <polygon points="86,30 132,29 133,38 86,39" fill="black" data-rim="0" data-shadow="0"/>
+    <polygon points="58,72 94,71 95,106 57,107" fill="orange" data-rim="0"/>
+    <polygon points="112,71 148,70 149,105 111,106" fill="yellow" data-rim="0"/>
+    <polygon points="58,126 94,125 95,160 57,161" fill="green" data-rim="0"/>
+    <polygon points="112,125 148,124 149,159 111,160" fill="pink" data-rim="0"/>
+    <polygon points="56,200 164,198 165,260 57,262" fill="cream" data-rim="0"/>
+    <line x1="70" y1="222" x2="140" y2="222" stroke="graphite" stroke-width="8"/>
+    <line x1="70" y1="242" x2="116" y2="242" stroke="graphite" stroke-width="8"/>
+    <polygon points="62,300 158,298 159,330 63,332" fill="navy" data-rim="0"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 190">
+  <!-- Red paper heart. -->
+  <g id="heart" data-pivot="95,100">
+    <polygon points="92,172 28,104 20,64 44,30 86,32 94,54 108,28 148,28 172,60 164,102" fill="red" data-shadow="2" data-crease="1"/>
+    <polygon points="38,58 54,44 74,46 58,72 44,78" fill="pink" data-shadow="0" data-rim="0"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 230">
+  <!-- Magnifying glass with a blue lens. -->
+  <g id="magnifier" data-pivot="88,88">
+    <polygon points="132,138 156,122 208,190 184,210" fill="coffee" data-shadow="2"/>
+    <polygon points="126,130 146,112 164,132 144,152" fill="graphite" data-rim="0"/>
+    <ellipse cx="86" cy="86" rx="56" ry="54" fill="sky"/>
+    <polygon points="48,70 62,46 80,38 66,64 58,90" fill="white" data-shadow="0" data-rim="0"/>
+    <ellipse cx="86" cy="86" rx="66" ry="64" stroke="graphite" stroke-width="18"/>
+  </g>
+</svg>

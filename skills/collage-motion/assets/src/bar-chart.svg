@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 230">
+  <!-- Chart with four rising bars. -->
+  <g id="ground">
+    <line x1="10" y1="206" x2="250" y2="204" stroke="graphite" stroke-width="8" data-rim="0"/>
+  </g>
+  <g id="bar1" data-pivot="42,198">
+    <polygon points="20,150 64,148 66,198 18,200" fill="sky" data-shadow="2"/>
+  </g>
+  <g id="bar2" data-pivot="100,198">
+    <polygon points="78,108 122,104 124,198 76,200" fill="blue" data-shadow="2"/>
+  </g>
+  <g id="bar3" data-pivot="158,198">
+    <polygon points="136,70 180,64 182,198 134,200" fill="orange" data-shadow="2"/>
+  </g>
+  <g id="bar4" data-pivot="216,198">
+    <polygon points="194,26 240,22 240,198 192,200" fill="red" data-shadow="2"/>
+  </g>
+</svg>

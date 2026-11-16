@@ -1,0 +1,14 @@
+{
+  "name": "collage-motion",
+  "description": "Skill for making paper-cutout (collage) art, stills and short videos.",
+  "owner": {
+    "name": "eydrenn"
+  },
+  "plugins": [
+    {
+      "name": "collage-motion",
+      "source": "./",
+      "description": "Make paper-cutout art, characters, still frames and short videos from plain SVG and JSON files."
+    }
+  ]
+}

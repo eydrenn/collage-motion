@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 250">
+  <!-- Red exclamation mark. -->
+  <g id="exclamation" data-pivot="70,125">
+    <polygon points="22,22 104,12 92,152 46,158" fill="brick" data-shadow="2"/>
+    <polygon points="28,22 108,16 94,152 48,156" fill="red"/>
+    <polygon points="44,36 58,34 56,112 48,114" fill="pink" data-shadow="0" data-rim="0"/>
+    <polygon points="44,192 96,188 100,232 48,236" fill="red" data-shadow="2"/>
+  </g>
+</svg>

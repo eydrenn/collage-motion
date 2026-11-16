@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380">
+  <!-- Work desk seen from the front, with a top, two drawers, a cable hole and uneven legs. -->
+  <g id="desk">
+    <polygon points="76,150 138,150 130,352 92,360 84,330" fill="brown"/>
+    <polygon points="590,150 648,148 640,330 628,356 598,350" fill="brown"/>
+    <polygon points="88,336 134,340 132,360 90,364" fill="coffee" data-rim="0"/>
+    <polygon points="38,66 392,60 688,62 694,102 372,106 30,110" fill="ochre"/>
+    <polygon points="66,108 652,102 656,154 62,158" fill="brown"/>
+    <ellipse cx="124" cy="82" rx="26" ry="13" fill="coffee" data-cut="smooth" data-rim="0" data-shadow="0"/>
+    <polygon points="110,118 276,116 280,146 114,149" fill="kraft" data-rim="0"/>
+    <polygon points="164,128 220,127 221,134 165,136" fill="yellow" data-rim="0" data-shadow="0"/>
+    <polygon points="372,114 508,112 506,146 374,148" fill="coffee" data-rim="0"/>
+    <polygon points="516,113 634,111 636,144 518,147" fill="coffee" data-rim="0"/>
+    <polygon points="418,126 462,125 462,134 419,135" fill="yellow" data-rim="0" data-shadow="0"/>
+    <polygon points="552,124 596,123 597,132 553,133" fill="yellow" data-rim="0" data-shadow="0"/>
+  </g>
+</svg>

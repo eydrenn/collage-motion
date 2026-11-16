@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 210">
+  <!-- Three four-pointed sparkles. -->
+  <g id="sparkle" data-pivot="100,110">
+    <polygon points="84,26 96,92 154,108 94,122 82,190 70,124 14,106 72,94" fill="yellow" data-shadow="2"/>
+    <polygon points="170,102 178,134 208,144 176,154 168,184 160,154 130,142 160,134" fill="cream" data-shadow="2"/>
+    <polygon points="166,14 172,34 192,42 172,48 166,68 158,48 140,40 160,34" fill="orange" data-cut="smooth"/>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 200">
+  <!-- Keyboard seen from above, with uneven keys, a long space bar and an orange and a blue key. -->
+  <g id="keyboard">
+    <polygon points="20,28 190,20 418,22 428,172 14,178 10,100" fill="graphite"/>
+    <polygon points="38,39 76,39 75,63 35,66" fill="silver" data-rim="0"/>
+    <polygon points="79,39 116,40 114,65 81,64" fill="cream" data-rim="0"/>
+    <polygon points="120,38 156,40 156,64 122,65" fill="cream" data-rim="0"/>
+    <polygon points="161,37 198,40 198,67 161,67" fill="cream" data-rim="0"/>
+    <polygon points="203,39 236,37 235,67 203,66" fill="cream" data-rim="0"/>
+    <polygon points="241,38 277,40 276,66 242,63" fill="cream" data-rim="0"/>
+    <polygon points="283,38 316,38 316,64 280,66" fill="cream" data-rim="0"/>
+    <polygon points="322,39 354,39 355,66 321,65" fill="cream" data-rim="0"/>
+    <polygon points="358,39 405,38 405,63 360,62" fill="orange" data-rim="0"/>
+    <polygon points="36,73 85,73 84,101 35,100" fill="silver" data-rim="0"/>
+    <polygon points="90,71 119,72 120,99 89,99" fill="cream" data-rim="0"/>
+    <polygon points="125,74 156,72 157,98 125,97" fill="cream" data-rim="0"/>
+    <polygon points="162,72 193,72 193,100 162,101" fill="cream" data-rim="0"/>
+    <polygon points="198,74 229,74 229,98 197,98" fill="cream" data-rim="0"/>
+    <polygon points="233,73 261,72 263,98 234,99" fill="cream" data-rim="0"/>
+    <polygon points="269,73 300,72 301,100 268,98" fill="cream" data-rim="0"/>
+    <polygon points="304,73 335,74 335,98 306,100" fill="cream" data-rim="0"/>
+    <polygon points="342,73 370,74 370,98 339,97" fill="cream" data-rim="0"/>
+    <polygon points="375,73 405,73 403,101 375,101" fill="cream" data-rim="0"/>
+    <polygon points="38,106 93,106 94,133 36,132" fill="silver" data-rim="0"/>
+    <polygon points="98,107 131,106 131,134 99,134" fill="cream" data-rim="0"/>
+    <polygon points="136,108 166,107 166,133 136,133" fill="cream" data-rim="0"/>
+    <polygon points="169,106 204,107 203,133 171,134" fill="cream" data-rim="0"/>
+    <polygon points="209,106 241,107 240,133 209,134" fill="cream" data-rim="0"/>
+    <polygon points="246,106 277,105 278,134 246,133" fill="cream" data-rim="0"/>
+    <polygon points="281,108 314,108 311,133 282,131" fill="cream" data-rim="0"/>
+    <polygon points="316,108 349,106 348,132 317,134" fill="cream" data-rim="0"/>
+    <polygon points="355,106 403,108 405,132 354,134" fill="blue" data-rim="0"/>
+    <polygon points="36,140 77,141 78,166 38,166" fill="silver" data-rim="0"/>
+    <polygon points="83,141 119,142 120,164 82,167" fill="silver" data-rim="0"/>
+    <polygon points="126,142 281,142 284,169 126,166" fill="cream" data-rim="0"/>
+    <polygon points="286,142 321,141 320,165 287,165" fill="silver" data-rim="0"/>
+    <polygon points="326,140 366,142 364,165 323,166" fill="silver" data-rim="0"/>
+    <polygon points="370,142 405,141 403,166 372,167" fill="silver" data-rim="0"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <!-- Gold coin with a dollar sign. -->
+  <g id="coin" data-pivot="90,90">
+    <ellipse cx="94" cy="96" rx="72" ry="70" fill="ochre" data-shadow="2"/>
+    <ellipse cx="88" cy="90" rx="70" ry="68" fill="yellow"/>
+    <ellipse cx="88" cy="90" rx="52" ry="50" fill="ochre" data-rim="0"/>
+    <text x="88" y="116" font-size="60" text-anchor="middle" data-tilt="-3" fill="yellow">$</text>
+    <polygon points="38,60 50,40 64,34 54,56" fill="cream" data-shadow="0" data-rim="0"/>
+  </g>
+</svg>

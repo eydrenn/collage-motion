@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 260">
+  <!-- Golden trophy. -->
+  <g id="trophy" data-pivot="115,130">
+    <path d="M56 50 C8 44 10 108 66 114" stroke="ochre" stroke-width="14" data-rim="0"/>
+    <path d="M172 48 C224 42 220 108 164 114" stroke="ochre" stroke-width="14" data-rim="0"/>
+    <polygon points="98,150 128,150 130,190 96,192" fill="ochre"/>
+    <path d="M56 26 L176 20 L170 100 C166 140 136 154 114 156 C88 154 62 140 58 100 Z" fill="yellow" data-shadow="2"/>
+    <polygon points="52,24 178,18 176,44 54,48" fill="orange" data-rim="0"/>
+    <polygon points="76,62 90,60 86,112 76,106" fill="cream" data-shadow="0" data-rim="0"/>
+    <polygon points="64,192 164,190 172,232 56,236" fill="coffee"/>
+    <polygon points="86,208 144,206 146,222 84,224" fill="yellow" data-shadow="0" data-rim="0"/>
+  </g>
+</svg>

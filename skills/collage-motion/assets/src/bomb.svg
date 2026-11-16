@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 250">
+  <!-- Round bomb with a fuse and a spark. -->
+  <g id="bomb" data-pivot="96,150">
+    <ellipse cx="96" cy="152" rx="78" ry="76" fill="graphite" data-shadow="2"/>
+    <polygon points="76,84 120,78 124,98 72,102" fill="black" data-rim="0"/>
+    <polygon points="44,120 62,100 78,108 56,146 44,142" fill="gray" data-shadow="0" data-rim="0"/>
+  </g>
+  <g id="fuse" data-pivot="100,84">
+    <path d="M100 84 C104 58 136 64 150 50" stroke="sand" stroke-width="8" data-rim="0"/>
+  </g>
+  <g id="spark" data-pivot="162,40">
+    <polygon points="162,14 168,32 188,40 168,48 162,68 154,48 134,40 154,32" fill="orange" data-rim="0"/>
+    <polygon points="162,26 172,40 162,54 152,40" fill="yellow" data-cut="smooth" data-rim="0"/>
+  </g>
+</svg>

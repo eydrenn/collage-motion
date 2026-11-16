@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 440">
+  <!-- Office chair seen from the front: tall backrest, arms, seat, column and wheeled base. -->
+  <g id="backrest" data-pivot="150,236">
+    <polygon points="92,20 208,16 226,150 214,236 88,240 76,146" fill="teal"/>
+    <polygon points="112,44 190,42 202,140 112,142" fill="sky" data-rim="0"/>
+  </g>
+  <g id="seat">
+    <polygon points="28,170 56,168 62,262 34,262" fill="graphite" data-rim="0"/>
+    <polygon points="244,166 272,168 268,262 240,264" fill="graphite" data-rim="0"/>
+    <polygon points="44,246 258,242 272,290 32,296" fill="graphite"/>
+    <polygon points="132,292 170,292 166,350 136,350" fill="gray" data-rim="0"/>
+  </g>
+  <g id="base">
+    <polygon points="24,352 150,338 278,352 272,374 28,378" fill="graphite"/>
+    <circle cx="42" cy="404" r="16" fill="black" data-cut="smooth"/>
+    <circle cx="150" cy="406" r="16" fill="black" data-cut="smooth"/>
+    <circle cx="258" cy="404" r="16" fill="black" data-cut="smooth"/>
+    <polygon points="36,374 50,374 48,390 38,390" fill="graphite" data-rim="0"/>
+    <polygon points="144,376 158,376 156,392 146,392" fill="graphite" data-rim="0"/>
+    <polygon points="250,374 264,374 262,390 252,390" fill="graphite" data-rim="0"/>
+  </g>
+</svg>
